@@ -52,7 +52,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/manav-singh-130579289) 
+- 💼 [LinkedIn](https://in.linkedin.com/in/manav-singh-130579289) 
 - 🖥️ [Portfolio Website](https://teddyklj.github.io/Manavtheanalyst2.github.io/)
 - 📬 manavs91118@gmail.com
 
