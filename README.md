@@ -41,12 +41,6 @@
 
 > 📁 *More projects coming soon – working on ML-based data prediction models.*
 
----
-
-## 📈 GitHub Stats
-
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavsinghdtu&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavsinghdtu&layout=compact)
 
 ---
 
